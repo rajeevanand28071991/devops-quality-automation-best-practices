@@ -1,7 +1,5 @@
-# devops-quality-automation-best-practices
-Non-code open-source contribution focusing on DevOps quality engineering and automation testing best practices aligned with Apache Software Foundation principles.
+# Improving Software Quality in DevOps Using Automation Best Practices
 
-Improving Software Quality in DevOps Using Automation Best Practices
 In modern DevOps environments, ensuring high software quality while maintaining rapid delivery cycles is a critical challenge. Continuous Integration and Continuous Deployment pipelines demand reliable, fast, and maintainable testing approaches.
 
 Automation testing plays a key role in achieving continuous quality. Open-source tools and frameworks supported by communities like the Apache Software Foundation enable teams to standardize testing practices and improve collaboration. Automated tests integrated early in the CI/CD pipeline help detect defects sooner and reduce rework costs.
